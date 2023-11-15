@@ -21,3 +21,4 @@ function Iteam({ id, title, price, description, category, image, onDelete }) {
 
 export default Iteam;
 
+
